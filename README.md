@@ -83,7 +83,7 @@ Aspiro a convertirme en un **full-stack developer** especializado en ciberseguri
 
 ## Conéctate conmigo
 
-[![Email](https://img.shields.io/badge/Email-lucabenidze@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:contactolucab@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-contactolucab@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:contactolucab@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucabenidze-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucabenidze)  
 
 ---
