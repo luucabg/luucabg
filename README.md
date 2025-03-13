@@ -62,6 +62,8 @@ Soy un técnico informático con una base sólida en varias tecnologías y un fu
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft)  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
 
+---
+
 ### Interesado en aprender:
 
 #### Lenguajes y Tecnologías
