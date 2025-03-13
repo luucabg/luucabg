@@ -44,8 +44,6 @@ Soy un técnico informático con una base sólida en varias tecnologías y un fu
 
 ### Intereses de Aprendizaje
 
-Estoy comprometido con el aprendizaje continuo y tengo interés en estas tecnologías y áreas:
-
 #### Lenguajes y Tecnologías
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
