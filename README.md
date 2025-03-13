@@ -39,17 +39,61 @@ Soy un **técnico informático** con experiencia en soporte técnico y administr
 
 ---
 
-## Habilidades Técnicas
+---
 
-| Lenguajes y Tecnologías        | Herramientas y Plataformas         |
-|--------------------------------|------------------------------------|
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) |
-| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) |
-| ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) | ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft) |
+## Habilidades e Intereses
 
-**Otras Aptitudes**:  
+Soy un técnico informático con una base sólida en varias tecnologías y un fuerte deseo de seguir aprendiendo y expandiendo mis conocimientos. A continuación, detallo mis habilidades actuales y las áreas en las que estoy interesado en profundizar.
+
+### Conocimientos Actuales
+
+- **Lenguajes de Programación**:  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)  
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)  
+
+- **Sistemas Operativos**:  
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)  
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)  
+
+- **Bases de Datos**:  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)  
+
+- **Herramientas y Plataformas**:  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)  
+  ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft)  
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)  
+
+### Intereses de Aprendizaje
+
+Estoy comprometido con el aprendizaje continuo y tengo un gran interés en profundizar en las siguientes tecnologías y áreas, muchas de las cuales son altamente demandadas en la industria:
+
+- **Lenguajes de Programación**:  
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)  
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)  
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)  
+
+- **Cloud y DevOps**:  
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)  
+
+- **Desarrollo Web y Aplicaciones**:  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
+
+- **Otras Áreas**:  
+  - Ciberseguridad avanzada  
+  - Machine Learning y IA  
+  - Desarrollo de aplicaciones móviles  
+
+---
+
+## Otras Aptitudes
+
 - Soporte técnico y resolución de incidencias  
 - Administración de sistemas y redes  
 - Automatización con scripts (CMD)  
