@@ -1,6 +1,6 @@
 # ¡Hola, soy Luca!
 
-![Banner de Luca Benidze](https://github.com/luucabg/luucabg/raw/main/banner.jpg)
+![Banner de Luca Benidze](https://github.com/luucabg/luucabg/banner.png)
 
 Soy un **técnico informático** con experiencia en soporte técnico y administración de sistemas, actualmente estudiando un **GS en Desarrollo de Aplicaciones Multiplataforma (DAM)** en **thePower**. Me apasiona la tecnología, el desarrollo de software y la ciberseguridad.
 
