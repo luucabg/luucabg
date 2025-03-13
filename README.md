@@ -48,6 +48,8 @@ Soy un técnico informático con una base sólida en varias tecnologías y un fu
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
+
+- **Lenguajes de Marcado y Estilo**:  
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)  
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)  
 
@@ -62,7 +64,7 @@ Soy un técnico informático con una base sólida en varias tecnologías y un fu
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)  
   ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft)  
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)  
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
 
 ### Interesado en aprender:
 
