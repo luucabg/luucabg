@@ -64,24 +64,22 @@ Soy un técnico informático con una base sólida en varias tecnologías y un fu
 
 ### Interesado en aprender:
 
-- **Lenguajes de Programación**:  
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)  
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)  
+#### Lenguajes y Tecnologías
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
 
-- **Cloud y DevOps**:  
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)  
+#### Cloud y DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)  
 
-- **Desarrollo Web y Aplicaciones**:  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
-
-- **Otras Áreas**:  
-  - Ciberseguridad avanzada  
-  - Machine Learning y IA  
-  - Desarrollo de aplicaciones móviles  
+#### Otras Áreas
+- Ciberseguridad avanzada  
+- Machine Learning y IA  
+- Desarrollo de aplicaciones móviles  
 
 ---
 
