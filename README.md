@@ -3,30 +3,6 @@
 
 Soy un **técnico informático** con experiencia en soporte técnico y administración de sistemas, actualmente estudiando un **GS en Desarrollo de Aplicaciones Multiplataforma (DAM)** en **thePower**. Me apasiona la tecnología, el desarrollo de software y la ciberseguridad.
 
-
----
-
-## Sobre mí
-
-- 🌍 **Ubicación**: Valencia, España  
-- 🎓 **Formación**: FP Superior en DAM @ thePower (2024 - 2026)  
-- 🌱 **Aprendiendo**: Desarrollo de aplicaciones, ciberseguridad y más
-
----
-
-## Educación
-
-- **Grado Superior en Desarrollo de Aplicaciones Multiplataforma**  
-  thePower (2024 - 2026)  
-- **Grado Medio en Sistemas Microinformáticos y Redes**  
-  TAME (2021 - 2023)  
-- **Grado Medio en Administración y Dirección de Empresas**  
-  CIPFP Mislata (2018 - 2021)  
-- **Educación Secundaria Obligatoria (ESO)**  
-  IES Music Martin i Soler (2013 - 2018)  
-- **Inglés**  
-  PLURAL Formación (2012 - 2019)
-
 ---
 
 ## Certificaciones
@@ -98,21 +74,9 @@ Soy un técnico informático con una base sólida en varias tecnologías y un fu
 
 ---
 
-## Proyectos
-
-Me encuentro actualmente desarrollando proyectos en mi ciclo formativo superior de DAM.
-
----
-
 ## Objetivos Profesionales
 
 Aspiro a convertirme en un **full-stack developer** especializado en ciberseguridad, creando aplicaciones seguras y eficientes. Quiero seguir creciendo en el mundo del desarrollo de software y contribuir a proyectos.
-
----
-
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=luucabg&show_icons=true&theme=radical)
 
 ---
 
