@@ -21,41 +21,41 @@ Soy un técnico informático con una base sólida en varias tecnologías y un fu
 ### Conocimientos Actuales:
 
 #### Lenguajes y Tecnologías
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)  
+![Java](https://img.shields.io/badge/---007396?style=flat-square&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/---F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/---3776AB?style=flat-square&logo=python&logoColor=white)  
+![HTML](https://img.shields.io/badge/---E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/---1572B6?style=flat-square&logo=css3&logoColor=white)  
+![MySQL](https://img.shields.io/badge/---4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
 #### Sistemas Operativos
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)  
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)  
+![Linux](https://img.shields.io/badge/---FCC624?style=flat-square&logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/---0078D6?style=flat-square&logo=windows&logoColor=white)  
 
 #### Herramientas y Plataformas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)  
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)  
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
+![Git](https://img.shields.io/badge/---F05032?style=flat-square&logo=git&logoColor=white)  
+![Azure](https://img.shields.io/badge/---0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
+![Active Directory](https://img.shields.io/badge/---0078D4?style=flat-square&logo=microsoft&logoColor=white)  
+![Arduino](https://img.shields.io/badge/---00979D?style=flat-square&logo=arduino&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/---007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/---000000?style=flat-square&logo=pycharm&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/---000000?style=flat-square&logo=intellij-idea&logoColor=white)  
 
----
+### Intereses de Aprendizaje
 
-### Interesado en aprender:
+Estoy comprometido con el aprendizaje continuo y tengo interés en estas tecnologías y áreas:
 
 #### Lenguajes y Tecnologías
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
+![C](https://img.shields.io/badge/---A8B9CC?style=flat-square&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/---00599C?style=flat-square&logo=cplusplus&logoColor=white)  
+![C#](https://img.shields.io/badge/---239120?style=flat-square&logo=csharp&logoColor=white)  
+![React](https://img.shields.io/badge/---61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/---339933?style=flat-square&logo=node.js&logoColor=white)  
 
 #### Cloud y DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)  
+![AWS](https://img.shields.io/badge/---232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/---2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/---326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 #### Otras Áreas
 - Ciberseguridad avanzada  
