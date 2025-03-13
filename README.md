@@ -63,27 +63,11 @@ Soy un técnico informático con una base sólida en varias tecnologías y un fu
 
 ---
 
-## Otras Aptitudes
-
-- Soporte técnico y resolución de incidencias  
-- Administración de sistemas y redes  
-- Automatización con scripts (CMD)  
-- Atención telefónica y soporte remoto (TeamViewer/AnyDesk)  
-- Inglés avanzado (C2), español nativo, nociones de georgiano y valenciano
-
----
-
-## Objetivos Profesionales
-
-Aspiro a convertirme en un **full-stack developer** especializado en ciberseguridad, creando aplicaciones seguras y eficientes. Quiero seguir creciendo en el mundo del desarrollo de software y contribuir a proyectos.
-
----
-
-## Conéctate conmigo
+## Conecta conmigo
 
 [![Email](https://img.shields.io/badge/Email-contactolucab@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:contactolucab@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucabenidze-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucabenidze)  
 
 ---
 
-*Última actualización: 12 de marzo de 2025*
+*Última actualización: 13 de marzo de 2025*
