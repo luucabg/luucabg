@@ -60,7 +60,10 @@ Soy un técnico informático con una base sólida en varias tecnologías y un fu
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)  
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)  
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
 
 ---
 
