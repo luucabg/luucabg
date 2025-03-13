@@ -31,9 +31,9 @@ Soy un **técnico informático** con experiencia en soporte técnico y administr
 
 ## Certificaciones
 
-- **EF SET English Certificate (C2 Proficient)**  
-- **Typing Certificate (102+ palabras por minuto)**  
-- **(Por finalizar) Máster en Ciberseguridad**  
+- **[EF SET English Certificate (C2 Proficient)](https://cert.efset.org/en/ktB6AA)**
+- **[Typing Certificate (102+ palabras por minuto)](https://www.ratatype.com/u7765953/certificate/en_new/)**
+- **(Por finalizar) Máster en Ciberseguridad**
 - **(Por finalizar) Microsoft Certified: Azure Developer Associate**
 
 ---
