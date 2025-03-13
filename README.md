@@ -1,8 +1,8 @@
-# ¡Hola, soy Luca Benidze! 👋
+# ¡Hola, soy Luca!
 
-![Banner de Luca Benidze](https://via.placeholder.com/800x200.png?text=Luca+Benidze+-+Técnico+Informático+y+Desarrollador+en+Formación) <!-- Reemplaza con tu banner personalizado -->
+![Banner de Luca Benidze](https://github.com/luucabg/luucabg/banner.jpg)
 
-Soy un **técnico informático** con experiencia en soporte técnico y administración de sistemas, actualmente estudiando un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en **thePower**. Me apasiona la tecnología, el desarrollo de software y la ciberseguridad, y estoy comprometido con el aprendizaje continuo para convertirme en un desarrollador versátil.
+Soy un **técnico informático** con experiencia en soporte técnico y administración de sistemas, actualmente estudiando un **GS en Desarrollo de Aplicaciones Multiplataforma (DAM)** en **thePower**. Me apasiona la tecnología, el desarrollo de software y la ciberseguridad.
 
 ---
 
