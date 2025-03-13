@@ -10,7 +10,6 @@ Soy un **técnico informático** con experiencia en soporte técnico y administr
 
 - 🌍 **Ubicación**: Valencia, España  
 - 🎓 **Formación**: FP Superior en DAM @ thePower (2024 - 2026)  
-- 💼 **Experiencia**: Soporte técnico en Marktel y Ayuntamiento de Mislata  
 - 🌱 **Aprendiendo**: Desarrollo de aplicaciones, ciberseguridad y más
 
 ---
@@ -39,13 +38,11 @@ Soy un **técnico informático** con experiencia en soporte técnico y administr
 
 ---
 
----
-
 ## Habilidades e Intereses
 
 Soy un técnico informático con una base sólida en varias tecnologías y un fuerte deseo de seguir aprendiendo y expandiendo mis conocimientos. A continuación, detallo mis habilidades actuales y las áreas en las que estoy interesado en profundizar.
 
-### Conocimientos Actuales
+### Conocimientos Actuales:
 
 - **Lenguajes de Programación**:  
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
@@ -67,9 +64,7 @@ Soy un técnico informático con una base sólida en varias tecnologías y un fu
   ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft)  
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)  
 
-### Intereses de Aprendizaje
-
-Estoy comprometido con el aprendizaje continuo y tengo un gran interés en profundizar en las siguientes tecnologías y áreas, muchas de las cuales son altamente demandadas en la industria:
+### Interesado en aprender:
 
 - **Lenguajes de Programación**:  
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)  
