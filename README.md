@@ -2,7 +2,7 @@
 
 ![Banne](https://github.com/luucabg/luucabg/raw/main/bannerluca.gif)
 
-Soy un **técnico informático** con experiencia en soporte técnico y administración de sistemas, actualmente estudiando un **GS en Desarrollo de Aplicaciones Multiplataforma (DAM)** en **thePower**. Me apasiona la tecnología, el desarrollo de software y la ciberseguridad.
+Soy un **técnico informático** con experiencia en soporte técnico y administración de sistemas, actualmente estudiando un **GS en Desarrollo de Aplicaciones Multiplataforma (DAM)** en **thePower**.
 
 ---
 
