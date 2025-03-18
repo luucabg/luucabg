@@ -17,8 +17,6 @@ Soy un **técnico informático** con experiencia en soporte técnico y administr
 
 ## Habilidades e Intereses
 
-Soy un técnico informático con una base sólida en varias tecnologías y un fuerte deseo de seguir aprendiendo y expandiendo mis conocimientos. A continuación, detallo mis habilidades actuales y las áreas en las que estoy interesado en profundizar.
-
 ### Conocimientos Actuales:
 
 #### Lenguajes y Tecnologías
@@ -52,4 +50,4 @@ Soy un técnico informático con una base sólida en varias tecnologías y un fu
 
 ---
 
-*Última actualización: 13 de marzo de 2025*
+*Última actualización: 18 de marzo de 2025*
