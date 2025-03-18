@@ -38,7 +38,7 @@ Soy un **técnico informático** con experiencia en soporte técnico y administr
 
 #### Otras Áreas
 - Ciberseguridad avanzada  
-- Machine Learning y IA  
+- Machine Learning e IA  
 - Desarrollo de aplicaciones móviles  
 
 ---
